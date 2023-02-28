@@ -76,5 +76,5 @@ function addAccount(information) {
     }
 }
 
-export {addAccount, generateUniqueID};
-console.log(addAccount(["Alan", "Turing", "aturing@w3c.com", 25]));
+export {addAccount, generateUniqueID}; 
+//console.log(addAccount(["Alan", "Turing", "aturing@w3c.com", 25]));
